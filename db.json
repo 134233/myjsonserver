@@ -52,6 +52,11 @@
       "type": "SelectList",
       "state": "israel",
       "options": ["Default", "Part of India", "Divided", "Pakistan", "Pakistani Administered Kashmir"]
+    },
+    {
+      "label": "Arunachal Pradesh",
+      "type": "TextDisplay",
+      "state": "arunachalPradesh"
     }
   ],
 
