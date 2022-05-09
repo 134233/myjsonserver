@@ -1,14 +1,63 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "typeSchema": [
+    {
+      "label": "First Name",
+      "type": "Input",
+      "state": "firstName"
+    },
+    {
+      "label": "Last Name",
+      "type": "Input",
+      "state": "lastName"
+    },
+    {
+      "label": "Email *",
+      "type": "Input",
+      "state": "email"
+    },
+    {
+      "label": "Select Gender",
+      "type": "SelectList",
+      "state": "gender",
+      "options": ["Male", "Female", "Others"]
+    },
+    {
+      "label": "First Name",
+      "type": "TextDisplay",
+      "state": "firstName"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+
+  "MapLegend": [
+    {
+      "label": "Km",
+      "type": "Input",
+      "state": "km"
+    },
+    {
+      "label": "Miles",
+      "type": "Input",
+      "state": "miles"
+    },
+    {
+      "label": "Metres",
+      "type": "Input",
+      "state": "metres"
+    },
+    {
+      "label": "Yards",
+      "type": "Input",
+      "state": "yards"
+    },
+    {
+      "label": "Feet",
+      "type": "Input",
+      "state": "feet"
+    },
+    {
+      "label": "Km",
+      "type": "TextDisplay",
+      "state": "km"
+    }
+  ]
 }
