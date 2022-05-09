@@ -1,4 +1,16 @@
 {
+  "Menu": [
+    {
+      "name": "typeSchema"
+    },
+    {
+      "name": "Map Legend"
+    },
+    {
+      "name": "Disputed Regions"
+    }
+  ],
+  
   "typeSchema": [
     {
       "label": "First Name",
