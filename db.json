@@ -28,6 +28,33 @@
     }
   ],
 
+  "DisputedRegions": [
+    {
+      "label": "Arunachal Pradesh",
+      "type": "SelectList",
+      "state": "arunachalPradesh",
+      "options": ["Default", "Part of China"]
+    },
+    {
+      "label": "Cyprus",
+      "type": "SelectList",
+      "state": "cyprus",
+      "options": ["Default", "Divided"]
+    },
+    {
+      "label": "Israel",
+      "type": "SelectList",
+      "state": "israel",
+      "options": ["Default", "Without Golan", "Include Terratories", "Palestine"]
+    },
+    {
+      "label": "Kashmir",
+      "type": "SelectList",
+      "state": "israel",
+      "options": ["Default", "Part of India", "Divided", "Pakistan", "Pakistani Administered Kashmir"]
+    }
+  ],
+
   "MapLegend": [
     {
       "label": "Km",
