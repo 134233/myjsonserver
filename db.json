@@ -16,26 +16,26 @@
       "label": "First Name",
       "type": "Input",
       "state": "firstName",
-      "value": "default"
+      "value": "Ola"
     },
     {
       "label": "Last Name",
       "type": "Input",
       "state": "lastName",
-      "value": "default"
+      "value": "Nordmann"
     },
     {
       "label": "Email *",
       "type": "Input",
       "state": "email",
-      "value": "default"
+      "value": "ola@nordmann.no"
     },
     {
       "label": "Select Gender",
       "type": "SelectList",
       "state": "gender",
       "options": ["Male", "Female", "Others"],
-      "value": "default"
+      "value": "Male"
     },
     {
       "label": "First Name",
