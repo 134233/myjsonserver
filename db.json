@@ -15,23 +15,27 @@
     {
       "label": "First Name",
       "type": "Input",
-      "state": "firstName"
+      "state": "firstName",
+      "value": "default"
     },
     {
       "label": "Last Name",
       "type": "Input",
-      "state": "lastName"
+      "state": "lastName",
+      "value": "default"
     },
     {
       "label": "Email *",
       "type": "Input",
-      "state": "email"
+      "state": "email",
+      "value": "default"
     },
     {
       "label": "Select Gender",
       "type": "SelectList",
       "state": "gender",
-      "options": ["Male", "Female", "Others"]
+      "options": ["Male", "Female", "Others"],
+      "value": "default"
     },
     {
       "label": "First Name",
