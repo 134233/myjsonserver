@@ -10,7 +10,7 @@
       "name": "Disputed Regions"
     }
   ],
-  
+
   "typeSchema": [
     {
       "label": "First Name",
@@ -49,30 +49,29 @@
       "label": "Arunachal Pradesh",
       "type": "SelectList",
       "state": "arunachalPradesh",
-      "options": ["Default", "Part of China"]
+      "options": ["Default", "Part of China"],
+      "value": "Default"
     },
     {
       "label": "Cyprus",
       "type": "SelectList",
       "state": "cyprus",
-      "options": ["Default", "Divided"]
+      "options": ["Default", "Divided"],
+      "value": "Default"
     },
     {
       "label": "Israel",
       "type": "SelectList",
       "state": "israel",
-      "options": ["Default", "Without Golan", "Include Terratories", "Palestine"]
+      "options": ["Default", "Without Golan", "Include Terratories", "Palestine"],
+      "value": "Default"
     },
     {
       "label": "Kashmir",
       "type": "SelectList",
       "state": "israel",
-      "options": ["Default", "Part of India", "Divided", "Pakistan", "Pakistani Administered Kashmir"]
-    },
-    {
-      "label": "Arunachal Pradesh",
-      "type": "TextDisplay",
-      "state": "arunachalPradesh"
+      "options": ["Default", "Part of India", "Divided", "Pakistan", "Pakistani Administered Kashmir"],
+      "value": "Default"
     }
   ],
 
@@ -80,32 +79,32 @@
     {
       "label": "Km",
       "type": "Input",
-      "state": "km"
+      "state": "km",
+      "value": "Km"
     },
     {
       "label": "Miles",
       "type": "Input",
-      "state": "miles"
+      "state": "miles",
+      "value": "Miles"
     },
     {
       "label": "Metres",
       "type": "Input",
-      "state": "metres"
+      "state": "metres",
+      "value": "Metres"
     },
     {
       "label": "Yards",
       "type": "Input",
-      "state": "yards"
+      "state": "yards",
+      "value": "Yards"
     },
     {
       "label": "Feet",
       "type": "Input",
-      "state": "feet"
-    },
-    {
-      "label": "Km",
-      "type": "TextDisplay",
-      "state": "km"
+      "state": "feet",
+      "value": "Feet"
     }
   ]
 }
