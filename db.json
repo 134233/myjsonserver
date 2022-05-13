@@ -38,6 +38,13 @@
       "value": "Male"
     },
     {
+      "label": "Select Favorites",
+      "type": "Check",
+      "state": "favorite",
+      "options": ["Java", "C#", "Python"],
+      "value": "Java"
+    },
+    {
       "label": "First Name",
       "type": "TextDisplay",
       "state": "firstName"
