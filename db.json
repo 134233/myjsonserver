@@ -39,7 +39,7 @@
     },
     {
       "label": "Confirm this",
-      "type": "Input",
+      "type": "Check",
       "state": "confirm",
       "value": ""
     },
