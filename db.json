@@ -54,6 +54,16 @@
       "label": "First Name",
       "type": "TextDisplay",
       "state": "firstName"
+    },
+    {
+      "label": "Gender",
+      "type": "TextDisplay",
+      "state": "gender"
+    },
+    {
+      "label": "Favorites",
+      "type": "TextDisplay",
+      "state": "favorite"
     }
   ],
 
