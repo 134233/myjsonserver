@@ -41,7 +41,7 @@
       "label": "Confirm this",
       "type": "Check",
       "state": "confirm",
-      "value": ""
+      "value": "I confirm"
     },
     {
       "label": "Select Favorites",
