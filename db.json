@@ -38,6 +38,12 @@
       "value": "Male"
     },
     {
+      "label": "Confirm this",
+      "type": "Input",
+      "state": "confirm",
+      "value": ""
+    },
+    {
       "label": "Select Favorites",
       "type": "Check",
       "state": "favorite",
