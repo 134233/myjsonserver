@@ -38,17 +38,11 @@
       "value": "Male"
     },
     {
-      "label": "Confirm this",
-      "type": "Check",
-      "state": "confirm",
-      "value": "I confirm"
-    },
-    {
       "label": "Select Favorites",
       "type": "Check",
       "state": "favorite",
       "options": ["Java", "C#", "Python"],
-      "value": "Java"
+      "value": []
     },
     {
       "label": "First Name",
